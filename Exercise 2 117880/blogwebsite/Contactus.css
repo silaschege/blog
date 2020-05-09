@@ -1,0 +1,14 @@
+h1, h2 {
+  text-align: center;
+  color: red; }
+
+
+body {
+   background-image:url("contact.jpg");
+   background-size:100%;
+   }
+
+th, td {
+  padding: 10px; }
+
+/*# sourceMappingURL=economy.css.map */

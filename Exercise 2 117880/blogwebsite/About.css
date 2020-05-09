@@ -1,0 +1,13 @@
+       body{
+				 background-image:url("about.jpg");
+				 background-size:100%;
+			 }
+
+	     div>p.h{
+	     	color: red;
+	     	font-weight: bold;
+	     }
+
+			th{
+				padding:10px;
+			}
